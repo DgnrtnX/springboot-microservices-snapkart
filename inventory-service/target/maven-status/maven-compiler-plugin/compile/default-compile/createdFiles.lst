@@ -1,0 +1,8 @@
+com\heisenberg\inventoryservice\entity\Inventory.class
+com\heisenberg\inventoryservice\repository\InventoryRepo.class
+com\heisenberg\inventoryservice\model\InventoryModel.class
+com\heisenberg\inventoryservice\constants\InventoryConstants.class
+com\heisenberg\inventoryservice\model\InventoryResponseModel.class
+com\heisenberg\inventoryservice\controller\InventoryController.class
+com\heisenberg\inventoryservice\InventoryServiceApplication.class
+com\heisenberg\inventoryservice\service\InventoryService.class

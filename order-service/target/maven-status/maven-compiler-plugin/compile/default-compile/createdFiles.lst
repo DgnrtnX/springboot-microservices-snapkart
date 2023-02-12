@@ -1,0 +1,12 @@
+com\heisenberg\orderservice\model\InventoryResponseModel.class
+com\heisenberg\orderservice\constants\OrderConstants.class
+com\heisenberg\orderservice\repository\OrderRepo.class
+com\heisenberg\orderservice\service\OrderService.class
+com\heisenberg\orderservice\event\OrderPlacedEvent.class
+com\heisenberg\orderservice\controller\OrderController.class
+com\heisenberg\orderservice\entity\OrderLineItems.class
+com\heisenberg\orderservice\model\OrderLineItemsModel.class
+com\heisenberg\orderservice\entity\Order.class
+com\heisenberg\orderservice\model\OrderRequestModel.class
+com\heisenberg\orderservice\config\WebClientConfig.class
+com\heisenberg\orderservice\OrderServiceApplication.class

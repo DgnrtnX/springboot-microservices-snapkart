@@ -1,0 +1,8 @@
+com\heisenberg\productservice\service\ProductService.class
+com\heisenberg\productservice\model\ProductRequestModel.class
+com\heisenberg\productservice\repository\ProductRepo.class
+com\heisenberg\productservice\constants\ProductConstants.class
+com\heisenberg\productservice\controller\ProductController.class
+com\heisenberg\productservice\PoductServiceApplication.class
+com\heisenberg\productservice\entity\Product.class
+com\heisenberg\productservice\model\ProductResponseModel.class

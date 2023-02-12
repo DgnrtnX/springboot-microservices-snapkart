@@ -1,0 +1,12 @@
+D:\Work\projects\Springboot\mircro-services\snapkart\order-service\src\main\java\com\heisenberg\orderservice\controller\OrderController.java
+D:\Work\projects\Springboot\mircro-services\snapkart\order-service\src\main\java\com\heisenberg\orderservice\model\InventoryResponseModel.java
+D:\Work\projects\Springboot\mircro-services\snapkart\order-service\src\main\java\com\heisenberg\orderservice\OrderServiceApplication.java
+D:\Work\projects\Springboot\mircro-services\snapkart\order-service\src\main\java\com\heisenberg\orderservice\event\OrderPlacedEvent.java
+D:\Work\projects\Springboot\mircro-services\snapkart\order-service\src\main\java\com\heisenberg\orderservice\model\OrderLineItemsModel.java
+D:\Work\projects\Springboot\mircro-services\snapkart\order-service\src\main\java\com\heisenberg\orderservice\config\WebClientConfig.java
+D:\Work\projects\Springboot\mircro-services\snapkart\order-service\src\main\java\com\heisenberg\orderservice\model\OrderRequestModel.java
+D:\Work\projects\Springboot\mircro-services\snapkart\order-service\src\main\java\com\heisenberg\orderservice\entity\Order.java
+D:\Work\projects\Springboot\mircro-services\snapkart\order-service\src\main\java\com\heisenberg\orderservice\service\OrderService.java
+D:\Work\projects\Springboot\mircro-services\snapkart\order-service\src\main\java\com\heisenberg\orderservice\entity\OrderLineItems.java
+D:\Work\projects\Springboot\mircro-services\snapkart\order-service\src\main\java\com\heisenberg\orderservice\constants\OrderConstants.java
+D:\Work\projects\Springboot\mircro-services\snapkart\order-service\src\main\java\com\heisenberg\orderservice\repository\OrderRepo.java
